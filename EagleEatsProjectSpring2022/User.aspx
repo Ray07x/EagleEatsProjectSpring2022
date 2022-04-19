@@ -4,9 +4,10 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>User</title>
+    <title>User Form</title>
 </head>
 <body>
+    <h1>User Information</h1>
     <form id="form1" runat="server">
         <div>
         </div>
